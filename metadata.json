@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Shafikul AI Personal OS",
+  "description": "An ultra-premium futuristic AI-powered personal operating system and life management dashboard designed for productivity, routines, learning, and content creation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
